@@ -8,4 +8,4 @@ RUN yum update -y \
 ENV LD_PRELOAD=/usr/lib64/libXrdPosixPreload.so
 
 CMD [ "/bin/bash" ]
-# Example: ls xroot://scosg16.jlab.org//osgpool/halld/random_triggers/
+# Example: ls xroot://sci-xrootd.jlab.org//osgpool/halld/random_triggers/

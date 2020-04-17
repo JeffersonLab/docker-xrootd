@@ -16,6 +16,6 @@ singularity run docker://wmoore28/xrootd
 
 Once inside the container:
 ```
-ls xroot://scosg16.jlab.org//osgpool/halld/random_triggers/
+ls xroot://sci-xrootd.jlab.org//osgpool/halld/random_triggers/
 ```
 
